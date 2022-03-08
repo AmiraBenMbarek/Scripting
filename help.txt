@@ -1,0 +1,17 @@
+Cette application permet de gérer les utilisateurs et leurs répértoires personelles.
+
+On utilise les options suivantes:
+
+ -h ou -help pour consuler le help
+
+ -m pour afficher un menu textuel
+
+ -g pour afficher un menu graphique
+
+ -v pour afficher la verion du systeme ainsi que la version de l'application et les noms de ses auteurs
+ 
+ -l pour verouiller un compte utilisateur existant en écrivant en argument le nom
+ 
+ -u pour deverouiller un compte utilisateur existant en écrivant en argument le nom
+ 
+ -c pour modifier le chemin du répértoire personelle de l’utilisateur et copier le contenu de son ancien répertoire vers le nouveau en écrivant le nom et le nom du repertoire séparés par une virgule
